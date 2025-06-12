@@ -38,4 +38,4 @@ class Report extends Model
 
 
 
-//TUGAS besar
+//TUGAS besar wad
