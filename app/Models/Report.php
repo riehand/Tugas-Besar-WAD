@@ -38,4 +38,4 @@ class Report extends Model
 
 
 
-//TUGAS BESAR WAD  lebih besar dari 1000
+//TUGAS BESAR WAD  lebih besar dari 1000 kurang dari 5000
