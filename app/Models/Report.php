@@ -35,7 +35,3 @@ class Report extends Model
         return $this->hasMany(ReportFile::class);
     }
 }
-
-
-
-//TUGAS BESAR WAD  lebih besar dari 1000 kurang dari 5000 6000 7000 8000 9000
